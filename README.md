@@ -2,13 +2,13 @@
 
 ### Data Science | AI/ML/DL | Business Analytics
 
-<img width="1200" height="884" alt="image" src="https://github.com/user-attachments/assets/8000e940-9939-4da0-aba6-8201b56ee512" />
+<img width="970" height="660" alt="image" src="https://github.com/user-attachments/assets/8000e940-9939-4da0-aba6-8201b56ee512" />
 
 ---
 
 ## About Me
 
-I'm a data-driven problem solver passionate about leveraging the power of Artificial Intelligence and Data Analytics to uncover actionable insights. My expertise lies in transforming complex data into reliable outcomes using a robust toolkit including Python, SQL, Tableau, and MS Excel. With a solid foundation in Data Science, Business Analytics, Machine Learning, Deep Learning, NLP, Gen-AI and Agentic AI, I'm skilled in statistical analysis, EDA, ETL/ELT workflows, and Cloud Computing fundamentals. I bring experience in developing AI-powered analytical solutions and interactive dashboards. I am currently seeking a challenging role where I can apply my skills and contribute to innovative solutions.
+I'm a data-driven problem solver passionate about leveraging the power of Artificial Intelligence and Data Analytics to uncover actionable insights. My expertise lies in transforming complex data into reliable outcomes using a robust toolkit including Python, SQL, Tableau, and MS Excel. With a solid foundation in Data Science, Business Analytics, Machine Learning, Deep Learning, NLP, Gen-AI and Agentic AI, I'm skilled in statistical analysis, EDA, ETL/ELT workflows, and Cloud Computing fundamentals. I bring experience in developing AI-powered analytical solutions and interactive dashboards.
 
 ---
 
