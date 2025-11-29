@@ -2,7 +2,7 @@
 
 ### Data Science | AI/ML/DL | Business Analytics
 
-<img width="970" height="660" alt="image" src="https://github.com/user-attachments/assets/8000e940-9939-4da0-aba6-8201b56ee512" />
+<img width="970" height="650" alt="image" src="https://github.com/user-attachments/assets/8000e940-9939-4da0-aba6-8201b56ee512" />
 
 ---
 
