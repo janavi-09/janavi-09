@@ -32,3 +32,5 @@ Attention to Detail, Critical Thinking and Analysis, Communication, Storytelling
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/janavi-vishwakarma-2b7258259/)
 
+vishwakarmajanavi1209@gmail.com
+
