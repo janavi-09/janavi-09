@@ -2,6 +2,8 @@
 
 ### Data Science | AI/ML/DL | Business Analytics
 
+<img width="1200" height="884" alt="image" src="https://github.com/user-attachments/assets/8000e940-9939-4da0-aba6-8201b56ee512" />
+
 ---
 
 ## About Me
@@ -30,10 +32,3 @@ Attention to Detail, Critical Thinking and Analysis, Communication, Storytelling
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/janavi-vishwakarma-2b7258259/)
 
----
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janavi-09&layout=compact&theme=vision-friendly-dark)
-
-![Janavi Vishwakarma's GitHub stats](https://github-readme-stats.vercel.app/api?username=janavi-09&show_icons=true&theme=vision-friendly-dark)
